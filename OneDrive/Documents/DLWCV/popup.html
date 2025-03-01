@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR Screenshot Tool</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Reference the local tesseract.min.js -->
+    <script src="libs/tesseract.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>VerifiAI</h2>
+
+        <!-- File Input for Image Upload -->
+        <div class="upload-section">
+            <label for="imageUpload" class="custom-file-upload">📷 Upload Screenshot</label>
+            <input type="file" id="imageUpload" accept="image/*">
+        </div>
+
+        <!-- Extract Text Button -->
+        <button id="processImage" class="btn">Check Misinformation Button</button>
+
+        <!-- Section to Display Extracted Text -->
+        <div id="outputDiv">
+            <p id="output">Verification result will appear here...</p>
+        </div>
+    </div>
+
+    <!-- Link to External JS -->
+    <script src="popup.js"></script>
+</body>
+</html>
+
