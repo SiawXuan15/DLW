@@ -1,6 +1,6 @@
 # VerifiAI
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/SiawXuan15/DLW/blob/main/VerifiAI%20Logo.png" alt="VerifiAI" width="400"/>
    
 ## Overview
