@@ -8,6 +8,12 @@ VerifiAI allows users to highlight suspicious content, after which the extension
 
 ---
 
+## 🚀 Demo
+Here is a quick demo of our prototype. We hope you enjoy it.
+> [YouTube Demo Link](https://www.youtube.com/watch?v=_gxqbRr5w40)
+
+---
+
 ## Key Features
 
 1. **Text Extraction from Images**:  
