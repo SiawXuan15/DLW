@@ -1,4 +1,4 @@
-# VerifiAI: A Solution to Combat Fake News
+# VerifiAI
 
 ## Overview
 
