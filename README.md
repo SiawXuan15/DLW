@@ -1,5 +1,8 @@
 # VerifiAI
 
+<p align="center">
+<img src="https://github.com/marcusting1/byte_dancers/assets/130948600/620befdb-ed8b-4d04-9f6c-3b06294a3054" alt="VerifiAI" width="180"/>
+   
 ## Overview
 
 In an era where artificial intelligence (AI) is rapidly advancing and social media usage continues to grow, the public's exposure to fake news—whether AI-generated or otherwise—has significantly increased. Unfortunately, many people do not fact-check the information they encounter online due to the inconvenience of doing so. To address this issue, our team has developed **VerifiAI**, a browser extension designed to help users identify and verify potentially fake news directly within their browser.
